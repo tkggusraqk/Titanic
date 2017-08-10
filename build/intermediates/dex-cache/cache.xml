@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\f5b17243ed793b8880bc9eae68fdf50e221b27ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_1c1c4d1355c67e3f75645d06cbbf76c7b9d7b1e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\435eedbfaf48f10008bee35ca6a98bd7ed00e9ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_b02c9a350fac34afa19503db2a4160d0892a49f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\d4faa7af301f3254a241a91cf00fd9a8c532a376\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_4f68e7be42069dd74c75504420f564a7e64ca1dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android\Titanic\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="33610dbc635e187c1d319b87563a67da08c9909a">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_e20785a2b667e27967ed4929cd8f933f8c7a3e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\775e22c927db57714a4332db84c209c3bc616272\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_f7d4510e501b86c2a8eae0372565db815f394bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\01fc77b3dc6ed785b872e8e9b04a2a00e9dc4a07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_9a1ac145075202ed2101887864b5c8f657e8842b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\11235feecf663a7575753e696e7271a99ac34e83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_634c3293d2f98dd1720d1f66b78f3b853b9d0354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\ea385a499b7ce33af9b3e0eacc6c889a5983df73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_a34d7361c5e8fa58e6a0f1ffea95dbc4b41061b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\25d15964223611c6eb9d1104fc42bea7c9be7f49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_567cb940d3af94c1da823078c1ab42bac5bb5bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_f9a10c4da5d913062c05891e4f6630a217f991d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cxj\.android\build-cache\939c063dd66a0f3e0d89859748fc6bbee52e52e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\Android\Titanic\sample\build\intermediates\pre-dexed\debug\classes_87dad660e206f830d343fbc4a84dfb7519a69b13.jar" />
+    </item>
+
+</items>
